@@ -36,7 +36,7 @@
 - It is under **filefetcher.py** currently.
 - Currently, I'm baffled if it is correct for a fetcher to be under "BioParser"/
 
-## Future Updates
+## Future Update(s)
 The features below **will be** supported in the next update.
 1. SAM/BAM parser required
 2. GFA parser required
