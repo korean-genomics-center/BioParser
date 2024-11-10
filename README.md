@@ -1,13 +1,22 @@
 # BioParser
 
+
 ## Developer(s)
 - KOGIC
 - Alan An B.Sc.
 
 ## Current Release
-- v.0.1.0 - alpha (**Under Construction**)
+- v.0.1.0 - alpha (**Under Construction**) 
 
-## Description
+## Past Release(s)
+- None - 2024/11/10
+
+## Objective(s)
+- To Parse Every Formats/Features required for Bioinformatic Analyses.
+- To Make A Standardized BioLanguage that will suit Bioinfomratic Pipelines.
+- To Make It Machine-Readable such that THE AI can understand to automatically parse in near future.
+
+## Description(s)
 - BioParser is a Python-based parsing pipeline (and scripts) for bioinformatics for KOGIC.
 
 - The script **fileparser.py** houses all the classes which are yet organized in separate manner (will do in future).
