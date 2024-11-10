@@ -33,8 +33,8 @@
 7. SAM/BAM (Binarized Sequence Alignment/Map format)
 
 - It also allows for Fetching Public Dataset on SRA.
-- It is under **filefetcher.py** currently.
-- Currently, I'm baffled if it is correct for a fetcher to be under "BioParser"/
+It is under **filefetcher.py** currently.
+Currently, I'm baffled if it is correct for a fetcher to be under "BioParser"/
 
 ## Future Update(s)
 The features below **will be** supported in the next update.
