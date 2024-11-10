@@ -44,4 +44,4 @@ The features below **will be** supported in the next update.
 ## Acknowledgement(s)
 - Many of the core codes here have been developed by @Yoonsung1203.
 - The name of "BioParser" has been inspired by Jong Bhak Ph.D. & Sungwon Jeon Ph.D.
-- UNIST (Ulsan National Institute of Science nad Technology) has provided me with finanical and academic aid to develop the tool.
+- KOGIC (Korean Genomics Centre) & UNIST (Ulsan National Institute of Science nad Technology) has provided me with finanical and academic aid to develop the tool.
