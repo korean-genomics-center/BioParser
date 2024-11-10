@@ -1,6 +1,6 @@
 # BioParser
 
-Under Construction
+**Under Construction**
 
 BioParser is a Python-based parsing pipeline (and scripts) for bioinformatics for KOGIC.
 The current formats that **are** supported include:
@@ -11,5 +11,5 @@ The current formats that **are** supported include:
 5. GEO (Gene Expression Omnibus Metadata Table)
 6. HGNC (Human Gene NomenClature Metadata Table)
 
-The current format **does not** support:
+The current format **does not** support:\n
 7. SAM/BAM (Binarized Sequence Alignment/Map format)
